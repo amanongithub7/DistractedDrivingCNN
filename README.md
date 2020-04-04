@@ -6,4 +6,6 @@
 To run the code on your device, simply download main.cpp and make sure you have the relevant packages installed.
 
 Do run this line in terminal once for the data:
+```
 pip install git+https://github.com/raghakot/keras-vis.git -U
+```
