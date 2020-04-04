@@ -11,4 +11,4 @@ pip install git+https://github.com/raghakot/keras-vis.git -U
 ```
 Any criticism and/or suggestions are welcome at:
 amanbir5103@gmail.com
-tilak.agarwal007@gmail.com
+and tilak.agarwal007@gmail.com
